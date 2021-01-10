@@ -13,6 +13,10 @@
     * efficiency分解，1x3/3x1啥的
     * dilate rate
 
+    跟inception block的想法差不多，多个branch，提取不同尺度的特征，
+    但是inception block都是基于同一个中心，
+
+
 
 ### RFBNet
     1. assemble on ssd top
